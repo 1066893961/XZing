@@ -232,6 +232,7 @@ public class MainActivity extends BaseActivity implements EasyPermissions.Permis
                 startActivityForResult(intent, REQUEST_CODE);
                 break;
             case R.id.button3:
+                //ces测试
                 intent = new Intent(MainActivity.this, SecondActivity.class);
                 startActivityForResult(intent, REQUEST_CODE);
                 break;
