@@ -17,6 +17,8 @@ public class SecondActivity extends BaseActivity {
 
     private CaptureFragment captureFragment;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
